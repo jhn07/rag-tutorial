@@ -1,0 +1,21 @@
+# Основные пакеты
+fastapi>=0.110.0
+uvicorn>=0.27.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# LangChain и связанные пакеты
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.1.0
+langchain-chroma>=0.1.0
+langchain-text-splitters>=0.1.0
+
+# Векторное хранилище
+chromadb>=0.4.22
+
+# OpenAI API
+openai>=1.0.0
+
+# Утилиты
+pathlib>=1.0.1

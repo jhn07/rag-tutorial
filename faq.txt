@@ -1,0 +1,34 @@
+AcmeTech FAQ
+
+1. What is AcmeTech?
+AcmeTech is a software company specializing in cloud-based developer tools, APIs, and AI integrations. Our mission is to make it easier for teams to build, deploy, and scale modern applications.
+
+2. What programming languages does AcmeTech support?
+AcmeTech supports JavaScript, TypeScript, Python, and Go. Developers can integrate our SDKs into web, backend, and mobile applications.
+
+3. How does AcmeTech handle authentication?
+We use JWT-based authentication combined with OAuth 2.0. Developers can integrate Single Sign-On (SSO) with providers like Google and GitHub.
+
+4. Does AcmeTech offer a free plan?
+Yes. The Free Plan includes up to 1,000 API requests per month, community support, and access to documentation. Paid tiers provide higher limits and enterprise features.
+
+5. What databases can I use with AcmeTech?
+AcmeTech integrates with PostgreSQL, MongoDB, and Firebase. Additional connectors are available for enterprise customers.
+
+6. How does AcmeTech ensure data security?
+We use encryption at rest (AES-256) and in transit (TLS 1.2+). Our systems are regularly audited and comply with SOC 2 and GDPR standards.
+
+7. Can AcmeTech scale with my application?
+Yes. AcmeTech is built on Kubernetes and auto-scales based on load. Our infrastructure is deployed on AWS and GCP for redundancy.
+
+8. Does AcmeTech provide AI capabilities?
+Yes. We provide AI-powered text analysis, summarization, and retrieval-augmented generation (RAG) APIs. Developers can integrate these into chatbots, search systems, and analytics dashboards.
+
+9. What kind of support is available?
+We provide three levels of support:
+- Community (free plan)
+- Business (email + 24h SLA)
+- Enterprise (dedicated account manager, priority SLA, phone support)
+
+10. How can I get started with AcmeTech?
+Sign up on our website, create an API key from the dashboard, and follow the Quickstart guide to make your first API request.
